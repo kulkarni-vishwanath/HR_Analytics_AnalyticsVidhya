@@ -26,11 +26,11 @@ training_hours	training hours completed
 target	0 – Not looking for job change, 1 – Looking for a job change
 
 
-Evaluation Metric
+## Evaluation Metric
 The evaluation metric for this competition is ROC AUC Score.
 
-
-Public Leaderboard: Rank 37
-Private Leaderboard: Rank 49
+## Leaderboard
+**Public Leaderboard:** 37/326
+**Private Leaderboard:** 49/326
 
 
