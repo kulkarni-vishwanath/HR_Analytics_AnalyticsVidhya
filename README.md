@@ -29,7 +29,7 @@ target	0 – Not looking for job change, 1 – Looking for a job change
 
 
 ## Evaluation Metric
-The evaluation metric for this competition is ROC AUC Score.
+The evaluation metric for this competition is [ROC AUC Score] (http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html).
 
 ## Leaderboard
 **Public Leaderboard:** 37/326
