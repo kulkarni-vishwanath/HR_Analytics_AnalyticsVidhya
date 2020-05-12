@@ -13,21 +13,23 @@ Company gets large number of signups for their trainings. Now, company wants to 
 To understand the factors that lead a person to look for a job change, **the agency wants you to design a model that uses the current credentials/demographics/experience to predict the probability of an enrollee to look for a new job.**
 
 ## Data Dictionary
-Variable	Description
-enrollee_id	Unique ID for enrollee
-city	City code
-city_development_index	Developement index of the city (scaled)
-gender	Gender
-relevent_experience	Relevent experience
-enrolled_university	Type of University course enrolled if any
-education_level	Education level
-major_discipline	Major discipline
-experience	Total experience in years
-company_size	No of employees in current employer's company
-company_type	Type of current employer
-last_new_job	Difference in years between previous job and current job
-training_hours	training hours completed
-target	0 – Not looking for job change, 1 – Looking for a job change
+
+| __Variable__ | __Description__ |
+|-------------|------------|
+| enrollee_id         | Unique ID for enrollee     |
+| city         | City code |
+| city_development_index | Developement index of the city (scaled) |
+| gender | Gender |
+| relevent_experience | Relevent experience |
+| enrolled_university | Type of University course enrolled if any |
+| education_level | Education level |
+| major_discipline | Major discipline |
+| experience | Total experience in years |
+| company_size | No of employees in current employer's company |
+| company_type | Type of current employer |
+| last_new_job | Difference in years between previous job and current job |
+| training_hours | training hours completed |
+| target | 0 – Not looking for job change, 1 – Looking for a job change |
 
 
 ## Evaluation Metric
