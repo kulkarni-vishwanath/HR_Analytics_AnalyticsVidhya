@@ -3,6 +3,8 @@
 
 # HR_Analytics_AnalyticsVidhya
 
+Link to the competition [here](https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/).
+
 ## Problem Statement
 A training institute which conducts training for analytics/ data science wants to expand their business to manpower recruitment (data science only) as well.
 Company gets large number of signups for their trainings. Now, company wants to connect these enrollees with their clients who are looking to hire employees working in the same domain. Before that, it is important to know which of these candidates are really looking for a new employment. They have student information related to demographics, education, experience and features related to training as well.
@@ -31,6 +33,7 @@ The evaluation metric for this competition is ROC AUC Score.
 
 ## Leaderboard
 **Public Leaderboard:** 37/326
+
 **Private Leaderboard:** 49/326
 
 
